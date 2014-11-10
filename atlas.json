@@ -2,7 +2,7 @@
   "branch": "master",
   "files": [
     "toc.md",
-    "generated/chapter-00-samples.md"
+    "generated/ch00-Sample-Content.md"
   ],
   "formats": {
     "pdf": {
