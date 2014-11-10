@@ -11,6 +11,8 @@ This is test for writing the Python Cookbook using a IPython Notebooks.  A few r
 
 ### IPython in Docker
 
+Here's what you need to do to use this in Docker, per this [IPython Notebooks and Docker video](https://www.youtube.com/watch?v=FiJbwznhRFA&feature=youtu.be):
+
 * Install Docker 1.3, Boot2docker, and Fig
 * from the root directory, type `fig up`
 
