@@ -1,6 +1,7 @@
 {
   "branch": "master",
   "files": [
+    "toc.md",
     "generated/chapter-00-samples.md"
   ],
   "formats": {
