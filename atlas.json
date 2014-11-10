@@ -32,6 +32,6 @@
       "consolidated": false
     }
   },
-  "theme": "",
+  "theme": "oreillymedia/oreilly_cookbook_theme",
   "title": "moonbeam"
 }
