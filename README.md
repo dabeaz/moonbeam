@@ -7,7 +7,6 @@ This is test for writing the Python Cookbook using a IPython Notebooks.  A few r
 * Each chapter in its own directory, with rich name, like "ch00-Sample-Content"
 * Each recipe in its own IPYNB file
 
-
 ## Editing the Notebooks
 
 ### IPython in Docker
@@ -26,6 +25,8 @@ Do this to generate a low-fidelity PDF for review and sharing:
 * Download  [pdc2md](https://github.com/odewahn/pdc2md/releases) and put it somewhere on your path.  Note that this is a Mac binary; if you're using something else I can recompile it.
 * Run `pdc2md -out generated/` from the root directory
 * Commit the files and push into Atlas
+
+We'll most likely produce the final version using `nbconvert`, but let's see how this workflow goes.
 
 
 ### Produce a build in Atlas
