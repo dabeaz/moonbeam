@@ -7,7 +7,11 @@ This is test for writing the Python Cookbook using a IPython Notebooks.  A few r
 * Each chapter in its own directory, with rich name, like "ch00-Sample-Content"
 * Each recipe in its own IPYNB file
 
-## Editing the Notebooks
+## Writing and Editing the Notebooks
+
+### Conda
+
+The most straightforward thing to do for this project, assuming no crazy dependencies, would be to just install conda.
 
 ### IPython in Docker
 
@@ -16,9 +20,6 @@ Here's what you need to do to use this in Docker, per this [IPython Notebooks an
 * Install Docker 1.3, Boot2docker, and Fig
 * from the root directory, type `fig up`
 
-### Conda
-
-You might also just want to install conda.
 
 ## Generate markdown from notebooks
 
